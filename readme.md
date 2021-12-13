@@ -6,7 +6,7 @@ Covid analysis
 
 Description:
 In github preview, pyplot plots are not visible. In order to view all diagrams please open this link: 
-https://nbviewer.org/github/JacekzMilo/My_projects/blob/main/Covid-analysis/Corona_analysis.ipynb
+https://nbviewer.org/github/JacekzMilo/covid-analysis/blob/main/Corona_analysis.ipynb?flush_cache=false
 
 During this project I wanted to find answers for below questions: 
 
